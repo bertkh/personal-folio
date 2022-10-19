@@ -1,4 +1,4 @@
-#№ My website
+## My website
 
 - This is simple page [check it out](https://bertqa.github.io/personal-folio/)
 - Used 2 colors
