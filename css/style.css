@@ -52,7 +52,7 @@ p {
 .header {
     padding: 1rem 0;
     margin-bottom: 110px;
-    background: #4d5258;
+    background: #2B7DED;
 }
 
 .header-inner {
@@ -134,7 +134,7 @@ p {
 }
 
 .title span {
-    color: #a2d8dd;
+    color: #2B7DED;
 }
 
 .text {
@@ -159,7 +159,7 @@ p {
 
     border: 0;
     cursor: pointer;
-    background: #4d5258;
+    background: #2B7DED;
     border-radius: 5px;
     transition: background .2s linear;
 }
@@ -170,7 +170,7 @@ p {
 }
 
 .btn:hover {
-    background: #2f3133;
+    background: #1461cb;
 }
 
 
